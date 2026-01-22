@@ -1,6 +1,6 @@
 # 🌟 HealthForte 🌟
 
-Welcome to **HealthForte**, your comprehensive web application for health and wellness. From QR code scanning for medicines to fitness, yoga, and audio therapy, LifeLinkCare has got you covered.
+Welcome to **HealthForte**, your comprehensive web application for health and wellness. From QR code scanning for medicines to fitness, yoga, and audio therapy, Health Forte has got you covered.
 
 
 
@@ -46,7 +46,7 @@ HealthForte is an integrated platform offering a range of health and wellness se
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/LifeLinkCare.git
+   git clone https://github.com/your-username/HealthForte.git
    cd LifeLinkCare
    ```
 
