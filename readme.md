@@ -47,7 +47,7 @@ HealthForte is an integrated platform offering a range of health and wellness se
 
    ```bash
    git clone https://github.com/your-username/HealthForte.git
-   cd LifeLinkCare
+   cd HealthForte
    ```
 
 2. **Install the dependencies:**
